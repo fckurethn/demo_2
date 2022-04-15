@@ -11,6 +11,6 @@ variable "instance_type" {
 variable "tags" {
   default = {
     Owner   = "Mykhailo Babych"
-    Project = "First Demo"
+    Project = "Second demo Demo"
   }
 }
